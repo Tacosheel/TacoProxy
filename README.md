@@ -1,6 +1,11 @@
 # [Taco Proxy](https://tacoproxy.ml)
 ### A website unblocker based off the Alloy Proxy
 
+# Updates
+```
+(Updated 3/8/21): Uploaded to GitHub again due to environments.
+```
+
 # Security
 ### VirusTotal:
 [tacoproxy.ml](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
