@@ -10,6 +10,9 @@
 ### VirusTotal:
 [tacoproxy.ml 3/17/21](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
 
+## REPORT ANY ILLEGAL/NSFW WEBSITES [HERE](https://github.com/Tacosheel/TacoProxy/issues/new)
+## This ensures that TacoProxy conforms with legal and ethical laws (I might add a reward for reporting websites)
+
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
 
