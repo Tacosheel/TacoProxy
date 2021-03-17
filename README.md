@@ -3,12 +3,12 @@
 
 # Updates
 ```
-(Updated 3/8/21): Uploaded to GitHub again due to environments.
+(Updated 3/17/21): Started Blocking (URI Full) of Known Illegal/NSFW Websites. VirusTotal Scan will be updated every month. New AntiVPN (ASN) being tested. 
 ```
 
 # Security
 ### VirusTotal:
-[tacoproxy.ml](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
+[tacoproxy.ml 3/17/21](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
