@@ -34,12 +34,6 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 # Domains
 [tacoproxy.ml](https://tacoproxy.ml)
 
-# Issues
-![GitHub issues](https://img.shields.io/github/issues-raw/tacosheel/tacoproxy?style=for-the-badge)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/tacosheel/tacoproxy?color=red&style=for-the-badge)
-
-#### You can report any issues [here](https://github.com/Tacosheel/TacoProxy/issues/new)
-
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy/tree/alloyheroku-v1" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
 &nbsp;
