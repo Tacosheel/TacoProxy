@@ -19,7 +19,7 @@ const server = http.createServer(app);
 //Local Alloy Proxy
 
 const localprox = new alloy({
-    prefix: '/tacosheel/',
+    prefix: '/prefix/',
     error: (proxy) => {
         return proxy.res.send(fs.readFileSync(path.join(__dirname, 'public', 'error.html'), 'utf8'));
     },
