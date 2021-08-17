@@ -8,7 +8,7 @@
 
 # Security
 ### VirusTotal:
-[tacoproxy.ml 3/17/21](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
+[TacoProxy.ml 8/17/21](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
@@ -29,10 +29,10 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 - Cloudfare Caching
 - Arc.io Caching
 
-#### Taco Proxy also has a very high PageSpeed rating of 94/100
+#### Taco Proxy also has a very high PageSpeed rating of 92/100
 
 # Domains
-[tacoproxy.ml](https://tacoproxy.ml)
+[TacoProxy.ml](https://tacoproxy.ml)
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy/tree/alloyheroku-v1" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
