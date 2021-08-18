@@ -25,7 +25,7 @@ Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots 
 # Speed
 There a lot of speed improvements since Aero Proxy, mainly including:
 
-- Brotli compression
+- Brotli Compression
 - Rocket Loader
 - Auto Minify
 - Cloudfare Caching
