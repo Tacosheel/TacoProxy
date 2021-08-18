@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 4/15/21): Added Domain: proxy.tacosheel.dev | Discord Server Coming Soon™ | Corrosion will be tested.
+(Updated 8/18/21): Added Domain: proxy.tacosheel.dev | Discord Server Coming Soon™ | Corrosion will be tested.
 ```
 
 # Security
