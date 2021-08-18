@@ -39,7 +39,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 [Proxy.Tacosheel.dev](https://proxy.tacosheel.dev)
 
 # Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxy" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://avatars.githubusercontent.com/u/67986096?v=4" width="140" height="30"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxy" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
 &nbsp;
 <a href="https://azuredeploy.net/" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/azure.svg?raw" width="140" height="30"><img></a>
 &nbsp;
