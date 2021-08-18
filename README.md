@@ -31,7 +31,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 - Cloudfare Caching
 - Arc.io Caching
 
-#### Taco Proxy also has a very high PageSpeed rating of 92/100
+##### PageSpeed rating of [94/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftacoproxy.ml%2F&tab=desktop) 
 
 # Domains
 [TacoProxy.ml](https://tacoproxy.ml)
