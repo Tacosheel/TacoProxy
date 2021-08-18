@@ -184,9 +184,13 @@ proxy.blocked.status // Outputs "true" when a filtered hostname is detected.
 
 ```
 
-# Credit
+# Credits
 - [Titanium Network](https://github.com/titaniumnetwork-dev)
 - [QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald)
+- [Jason](https://github.com/caracal-js)
+- [B3ATDROP3R](https://github.com/B3ATDROP3R)
+- [shirt](https://github.com/shirt-dev)
+- [Xproassassinn](https://github.com/Xproassassinn)
 
 # License 
 ![GitHub](https://img.shields.io/github/license/tacosheel/tacoproxy?style=for-the-badge)
