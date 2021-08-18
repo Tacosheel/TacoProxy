@@ -1,5 +1,5 @@
 # [Taco Proxy](https://tacoproxy.ml)
-### A website unblocker based off the Alloy Proxy
+### A node.js web proxy for use in combating web filters featuring URL encoding
 
 # Updates
 ```
