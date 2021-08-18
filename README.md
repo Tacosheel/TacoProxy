@@ -15,10 +15,9 @@
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
 
-Since Heroku does not support SSL Certificates without Hobby Plan, Currently using Cloudfare Flexible.
+Since Heroku does not support SSL Certificates for free dynos, I am currently using Cloudfare Flexible.
 
-### Scrape Shield
-#### Email Address Obfuscation
+### Email Address Obfuscation
 
 Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots and spammers
 
