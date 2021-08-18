@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 4/15/21): URI Blocking doesnt work lmfao cloudfare bad 
+(Updated 4/15/21): Added Domain: proxy.tacosheel.dev | Discord Server Coming Soon™ | Corrosion will be tested.
 ```
 
 # Security
@@ -35,6 +35,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 
 # Domains
 [TacoProxy.ml](https://tacoproxy.ml)
+
 [Proxy.Tacosheel.dev](https://proxy.tacosheel.dev)
 
 # Deploy
