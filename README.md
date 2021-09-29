@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 8/18/21): Added Domain: proxy.tacosheel.dev | Discord Server Coming Soon™ | Corrosion will be tested.
+(Updated 9/28/21): Discontinued and Archived | TacoProxy v2 Alpha will be released, and will not be updated.
 ```
 
 # Security
