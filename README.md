@@ -1,16 +1,14 @@
-# [Taco Proxy](https://tacoproxy.ml)
+# [Taco Proxy](https://proxy.tacosheel.dev)
 ### A node.js web proxy for use in combating web filters featuring URL encoding
 
 # Updates
 ```
-(Updated 9/28/21): Discontinued and Archived | TacoProxy v2 Alpha will be released, and will not be updated.
+(Updated 2/17/22): Hmm... Update?
 ```
 
 # Security
 ### VirusTotal:
-[TacoProxy.ml | 8/18/21](https://www.virustotal.com/gui/url/beccb55681f2a9271bdb05ceea452dedfde6c1fa5a35226215337453e3ce56d5/detection)
-
-[Proxy.Tacosheel.dev | 8/18/21 ](https://www.virustotal.com/gui/url/a0be55c705daaa5481d52e897327813e46847a73b372bb83f2e3e769e87f4c99/detection)
+[proxy.tacosheel.dev | 8/18/21 ](https://www.virustotal.com/gui/url/a0be55c705daaa5481d52e897327813e46847a73b372bb83f2e3e769e87f4c99/detection)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
@@ -33,9 +31,7 @@ There a lot of speed improvements since Aero Proxy, mainly including:
 ##### PageSpeed rating of [94/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftacoproxy.ml%2F&tab=desktop) 
 
 # Domains
-[TacoProxy.ml](https://tacoproxy.ml)
-
-[Proxy.Tacosheel.dev](https://proxy.tacosheel.dev)
+[proxy.tacosheel.dev](https://proxy.tacosheel.dev)
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxy" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
@@ -202,4 +198,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-### Copyright (c) 2020-2021 Tacosheel
+### Copyright (c) 2020-2022 Tacosheel
