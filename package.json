@@ -1,5 +1,5 @@
 {
-    "name": "alloyproxydemo",
+    "name": "alloyproxy",
     "version": "1.0.0",
     "description": "Proxy library to unblock the web!",
     "main": "app.js",
