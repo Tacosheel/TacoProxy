@@ -1,14 +1,13 @@
-# [Taco Proxy](https://proxy.tacosheel.dev)
+# [Taco Proxy](https://github.com/Tacosheel/TacoProxy)
 ### A node.js web proxy for use in combating web filters featuring URL encoding
 
 # Updates
 ```
-(Updated 2/17/22): Hmm... Update?
+(Updated 5/10/22): I've seen a lot of people ask me this, DO NOT RELY ON THIS TO "HIDE YOUR ACTIVITY". I may work on a more stealthy version during the summer.
 ```
 
 # Security
 ### VirusTotal:
-[proxy.tacosheel.dev | 8/18/21 ](https://www.virustotal.com/gui/url/a0be55c705daaa5481d52e897327813e46847a73b372bb83f2e3e769e87f4c99/detection)
 
 ### SSL/TLS:
 Taco Proxy is encrypted with the latest TLS 1.3
