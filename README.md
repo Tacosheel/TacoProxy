@@ -3,34 +3,17 @@
 
 # Updates
 ```
-(Updated 5/10/22): I've seen a lot of people ask me this, DO NOT RELY ON THIS TO "HIDE YOUR ACTIVITY". I may work on a more stealthy version during the summer.
+(Updated 1/4/23): Based. New domain eventually.
 ```
-
-# Security
-### VirusTotal:
-
-### SSL/TLS:
-Taco Proxy is encrypted with the latest TLS 1.3
-
-Since Heroku does not support SSL Certificates for free dynos, I am currently using Cloudfare Flexible.
 
 ### Email Address Obfuscation
 
 Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots and spammers
 
-# Speed
-There a lot of speed improvements since Aero Proxy, mainly including:
-
-- Brotli Compression
-- Rocket Loader
-- Auto Minify
-- Cloudfare Caching
-- Arc.io Caching
-
-##### PageSpeed rating of [94/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftacoproxy.ml%2F&tab=desktop) 
+##### PageSpeed rating of [0/0](https://google.com) 
 
 # Domains
-[proxy.tacosheel.dev](https://proxy.tacosheel.dev)
+Coming Soon
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxy" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
