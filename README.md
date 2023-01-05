@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 1/4/23): Based. New domain eventually.
+(Updated 1/4/23): Based. New domain eventually. Heroku :(
 ```
 
 ### Email Address Obfuscation
@@ -16,8 +16,6 @@ Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots 
 Coming Soon
 
 # Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Tacosheel/TacoProxy" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/heroku.svg?raw" width="140" height="30"><img></a>
-&nbsp;
 <a href="https://azuredeploy.net/" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/azure.svg?raw" width="140" height="30"><img></a>
 &nbsp;
 
