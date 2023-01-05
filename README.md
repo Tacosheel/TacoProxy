@@ -1,5 +1,5 @@
 # [Taco Proxy](https://github.com/Tacosheel/TacoProxy)
-### A node.js web proxy for use in combating web filters
+### A frontend for AlloyProxy, a node.js web proxy for use in combating web filters
 
 # Updates
 ```
