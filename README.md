@@ -6,10 +6,6 @@
 (Updated 1/4/23): Based. New domain eventually. Heroku :(
 ```
 
-### Email Address Obfuscation
-
-Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots and spammers
-
 ##### PageSpeed rating of [0/0](https://google.com) 
 
 # Domains
