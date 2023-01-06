@@ -15,10 +15,6 @@ Displays obfuscated email addresses on Taco Proxy to prevent harvesting by bots 
 # Domains
 Coming Soon
 
-# Deploy
-<a href="https://azuredeploy.net/" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/azure.svg?raw" width="140" height="30"><img></a>
-&nbsp;
-
 # How to Use
 ### Module Use
 
