@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 1/4/23): Based. New domain eventually. Heroku :(
+(Updated 3/4/23: V2)
 ```
 
 ##### PageSpeed rating of [0/0](https://google.com) 
